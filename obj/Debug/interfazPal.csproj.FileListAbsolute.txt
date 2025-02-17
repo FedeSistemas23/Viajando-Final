@@ -1,0 +1,664 @@
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarPaquete.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarPaquete.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\Castel\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando-clon-rama-Formularios\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\ViajandoMaster\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CargaPasajeros.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPasajero.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedor.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarVendedor.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Menu.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionDeReservas.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\Mostrador\Desktop\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.FrmIngresarEditarReseerva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.ConfiguracionDeSeguridad.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.GestionAdministratioContable.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Usuario.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando Alta Paquete 1.0\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\Mostrador\Desktop\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Testing Viajando\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando ComboBoxPaquetes\Testing Viajando\Viajando 1.1\Viajando Alta Paquete - copia\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuses.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmConfiguracionDelSistema.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmConfiguracionDelSistema.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmEnviarPorEmail.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.frm_MostrarReserva.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.exe.config
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.exe
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\interfazPpal.pdb
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaDatos.dll
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaNegocio.dll
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaServicios.dll
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaSesion.dll
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaDatos.pdb
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaNegocio.pdb
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaServicios.pdb
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\bin\Debug\CapaSesion.pdb
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.AssemblyReference.cache
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPaquete.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.BuscarReserva.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuses.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmConfiguracionDelSistema.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmEnviarPorEmail.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.Alta_de_Usuarios.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.CambioContrasenia.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCargaPasajeros.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmAgregarDestino.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmFolletoPaquete.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarPaquetes.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarCoordinador.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarPasajero.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarProveedor.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmBuscarVendedor.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorBus.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmIngresarEditarProveedorHotel.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoProveedores.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoRecibidos.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmPagoVendedor.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.frm_MostrarReserva.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.MenuPpal.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.Properties.Resources.resources
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.GenerateResource.cache
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPal.csproj.CoreCompileInputs.cache
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfaz.B5462AA6.Up2Date
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.exe
+C:\Users\Castel\Downloads\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.pdb
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.FrmBuscarReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmCambioContrasenia.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\Loggin.CrearReserva.resources
+C:\Users\feder\OneDrive\Escritorio\Viajando (2)\Viajando\interfazPpal\obj\Debug\interfazPpal.FrmConfiguracionDeSeguridad.resources
