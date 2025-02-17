@@ -1,0 +1,117 @@
+﻿using CapaNegocio;
+using CapaSesion;
+using Loggin;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace interfazPpal
+{
+    public partial class FrmBuscarPaquete : Form
+    {
+        public FrmBuscarPaquete()
+        {
+            InitializeComponent();
+        }
+
+       // CS_AtributosPaquete buscarPaquete = new CS_AtributosPaquete();
+        CN_BuscarPaquete paquete = new CN_BuscarPaquete();
+        DataTable dt = new DataTable();
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            CN_BuscarPaquete paquete = new CN_BuscarPaquete();
+            CS_AtributosPaquete buscarPaquete = new CS_AtributosPaquete();
+            {
+               // buscarPaquete.Id_Paquete = id;
+                buscarPaquete.Destino = txtDestino.Text;
+                buscarPaquete.FechaSalida = dtpFechaSalida.Value;
+                buscarPaquete.FechaRegreso = dtpFechaRegreso.Value;
+
+            };
+            
+            
+            
+            dt = paquete.BuscarPaqueteCN(buscarPaquete);
+            dgvMostrarPaquetes.DataSource = dt;
+
+           
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void FrmBuscarPaquete_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           //int id = ObtenerIdPaquete(dgvMostrarPaquetes);
+
+            if (dgvMostrarPaquetes.SelectedRows.Count > 0)
+            {
+
+                int id = Convert.ToInt32(dgvMostrarPaquetes.SelectedRows[0].Cells["Id_Paquete"].Value);
+                string destino = dgvMostrarPaquetes.SelectedRows[0].Cells["Destino"].Value.ToString();
+                DateTime fechaSalida = Convert.ToDateTime(dgvMostrarPaquetes.SelectedRows[0].Cells["FechaSalida"].Value);
+                DateTime Regreso = Convert.ToDateTime(dgvMostrarPaquetes.SelectedRows[0].Cells["FechaRegreso"].Value);
+                int Disponibilidad = Convert.ToInt32(dgvMostrarPaquetes.SelectedRows[0].Cells["Disponibilidad"].Value);
+                if (Disponibilidad > 0)
+                {
+                    CrearReserva frm = new CrearReserva(id, destino, fechaSalida, Regreso, Disponibilidad);
+                    frm.ShowDialog();
+                }
+                else
+                {
+                    MessageBox.Show("No hay lugares disponibles para este paquete","lugares agotados", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("No ha seleccionado ningun paquete", "Seleccione una fila", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+
+
+
+        }
+        
+       /* public int ObtenerIdPaquete(DataGridView dataGrid)
+        {
+            // Verificamos si hay una fila seleccionada
+            if (dataGrid.SelectedRows.Count > 0)
+            {
+              
+                int idPaquete = Convert.ToInt32(dataGrid.SelectedRows[0].Cells["Id_Paquete"].Value);
+               /* string destino = dataGrid.SelectedRows[1].Cells["Destino"].Value.ToString();
+                DateTime fechaSalida = Convert.ToDateTime(dataGrid.SelectedRows[2].Cells["FechaSalida"].Value);
+                DateTime Regreso = Convert.ToDateTime(dataGrid.SelectedRows[3].Cells["FechaRegreso"].Value);
+                int Disponibilidad =Convert.ToInt32(dataGrid.SelectedRows[4].Cells["Disponibilidad"].Value);
+
+
+                return idPaquete;
+            }
+            else
+            {
+                MessageBox.Show("No ha seleccionado ningun paquete", "Seleccione una fila", MessageBoxButtons.OK, MessageBoxIcon.Information); 
+            }
+        }*/
+    
+        
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+           
+        }
+    }
+}
